@@ -1,8 +1,8 @@
 ### Olá, eu sou Patrick Tavares👋
 
 
-- 🔭 Atualmente estou trabalhando em Frontend iniciante.
-- 🌱 Atualmente estou aprendendo Frameworks como React.
+- 🔭 Atualmente estou trabalhando em freelancer Frontend iniciante.
+- 🌱 Atualmente estou aprendendo Framework React.
 - 👯 Estou procurando colaborar em melhor entrega e facilidade ao cliente! 
 - 🤔 Estou procurando ajuda com Frontend.
 - 📫 Como chegar até mim: patricktavares3pc@gmail.com
