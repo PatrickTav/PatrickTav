@@ -1,8 +1,8 @@
 ### Olá, eu sou Patrick Tavares👋
 
 
-- 🔭 Atualmente sou Frontend com conhecimentos em Backend.
-- 🌱 React especialização. 
+- 🔭 Atualmente sou desenvolvedor Frontend/ mobile ReactNative.
+- 🌱 React especialização.
 - 📫 Como chegar até mim: patricktavares3pc@gmail.com
 ##
  <div>
